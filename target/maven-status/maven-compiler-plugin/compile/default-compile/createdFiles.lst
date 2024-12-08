@@ -1,0 +1,5 @@
+com\mycompany\mywebapp\Person.class
+com\mycompany\mywebapp\resources\JakartaEE11Resource.class
+com\mycompany\mywebapp\MainServlet.class
+com\mycompany\mywebapp\JakartaRestConfiguration.class
+com\mycompany\mywebapp\RegisterServlet.class
